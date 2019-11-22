@@ -11,11 +11,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 You will need a python environment and tensor-flow to run the project.
 
-You can install from [here](https://docs.conda.io/projects/conda/en/latest/user-guide/install/)
+You can install for Mac and Windows from [here](https://docs.conda.io/projects/conda/en/latest/user-guide/install/)
 
-```
-Give examples
-```
+Or you can directly running it from [Google Colab](https://colab.research.google.com)
 
 ### Installing
 
