@@ -17,7 +17,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 * The project consists of three parts: data preprocessing, encoding and decoding.
 * Also, please make sure you have tensor-flow installed in you python environment. 
-* Tensor_flow installation can be found [here](https://www.tensorflow.org/install)
+* Tensor_flow installation can be found [Here](https://www.tensorflow.org/install)
 
 ## Authors
 
@@ -26,9 +26,22 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+
+* M. Collins [N-gram model](http://www.cs.columbia.edu/~mcollins/lm-spring2013.pdf)
+
+* S. Sathasivam. [Logic Learning in Hopfield Networks]() 
+
+* D. Jurafsky.  J. H. Martin. [Speech and Language Processing Ch3 N-Grams](https://web.stanford.edu/~jurafsky/slp3/3.pdf)
+
+* P. Koehn, F. J. Och, D. Marcu. [Statistical Phrase-Based Translation.](https://aclanthology.info/pdf/N/N03/N03-1017.pdf)
+
+* W. De Mulder, S. Bethard, M.-F. Moens. [A survey on the application of recurrent neural networks to statistical language modelling (2015) Computer Speech and Language,  30  (1) , pp. 61-98.]()
+
+* D. Karani [Introduction to Word Embedding and Word2Vec.](https://towardsdatascience.com/introduction-to-word-embedding-and-word2vec-652d0c2060fa)
+
+* [Seq2seq basics](https://google.github.io/seq2seq/)
+
+* M. Schuster. Paliwal K K. [Bidirectional recurrent neural networks](https://www.semanticscholar.org/paper/Bidirectional-recurrent-neural-networks-Schuster-Paliwal/)
 
 
 
