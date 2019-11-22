@@ -9,53 +9,18 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-You will need a python environment and tensor-flow to run the project.
+You will need a python environment run the project.
 
-You can install for Mac and Windows from [here](https://docs.conda.io/projects/conda/en/latest/user-guide/install/)
+You can install Python for Mac and Windows from [Conda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/)
 
 Or you can directly running it from [Google Colab](https://colab.research.google.com)
 
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
 ## Running the tests
 
-Explain how to run the automated tests for this system
+The project consists of three parts: data preprocessing, encoding and decoding.
+Also, please make sure you have tensor-flow installed in you python environment. 
 
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
+Tensor_flow installation can be found [here](https://www.tensorflow.org/install)
 
 ## Built With
 
