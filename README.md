@@ -16,8 +16,8 @@ These instructions will get you a copy of the project up and running on your loc
 ## Running the tests
 
 * The project consists of three parts: 
- 	data preprocessing can be found in: data_preprocessing.ipynb
- 	encoding and decoding can be found in: NMT_en_man.ipynb
+ 	data preprocessing can be found in: [data_preprocessing.ipynb](https://github.com/tn610582/NLP/blob/master/data_preprocessing.ipynb)
+ 	encoding and decoding can be found in: [NMT_en_man.ipynb](https://github.com/tn610582/NLP/blob/master/NMT_en_man.ipynb)
 * Also, please make sure you have tensor-flow installed in you python environment. 
 * Tensor_flow installation can be found [Here](https://www.tensorflow.org/install)
 
