@@ -1,4 +1,4 @@
-# Project Title
+# Neural Machine Translation, English to Mandarin
 
 One Paragraph of project description goes here
 
