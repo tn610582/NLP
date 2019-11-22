@@ -5,15 +5,13 @@ racy.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-[Overview of Artificial Intelligence, Deep Learning and NLP in Big Data](https://www.xenonstack.com/blog/data-science/ai-nlp-big-deep-learning/)
-
-[chinese version](https://36kr.com/p/5074076.html)
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+You will need a python environment and tensor-flow to run the project.
+
+You can install from [here](https://docs.conda.io/projects/conda/en/latest/user-guide/install/)
 
 ```
 Give examples
